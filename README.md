@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar</h1>
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A Passionate Java Developer From India</h3>
 <img align="right" alt="coding "width="400" src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
 
 - 🌱 I’m currently learning **C++, Java ,MySQL & CSS**
