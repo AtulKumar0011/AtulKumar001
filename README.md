@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Java Developer From India</h3>
 <img align="right" alt="coding "width="400" src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
 
-- 🌱 I’m currently learning **C++, Java ,MySQL & CSS**
+- 🌱 I’m currently learning **C++, Java ,MySQL ,CSS & DBMS**
 
 - 💬 Ask me about **BCA Student**
 
